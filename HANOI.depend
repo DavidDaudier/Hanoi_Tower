@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611373114 source:c:\users\david daudier\documents\fichier codeblocks\hanoi\main.cpp
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<iostream>
+
